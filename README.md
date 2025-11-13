@@ -44,7 +44,7 @@ README.md
 
 1. Clonar el repositorio:
    ```bash
-   git clone https://github.com/<tu-usuario>/LinearRegression-Practice3.git
+   git clone https://github.com/SamCheesy/LinearRegression-Practice3.git
    cd LinearRegression-Practice3
    ```
 
