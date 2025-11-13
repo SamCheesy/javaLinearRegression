@@ -45,7 +45,7 @@ README.md
 1. Clonar el repositorio:
    ```bash
    git clone https://github.com/SamCheesy/javaLinearRegression.git
-   cd LinearRegression-Practice3
+   cd javaLinearRegression
    ```
 
 2. Asegurarse de tener instalada una versión de **Java 17 o superior**.
